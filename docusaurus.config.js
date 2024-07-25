@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "React Text Decorator",
   tagline: "Decorate your texts",
-  favicon: "img/favicon.ico",
+  favicon: "img/RTD-logo.png",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
